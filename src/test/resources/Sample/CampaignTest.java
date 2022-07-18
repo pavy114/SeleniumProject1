@@ -28,5 +28,16 @@ public class CampaignTest {
 		System.out.println("click on the edit one ");
 		System.out.println("edit sucessfully...");
 		
+		System.out.println("amit kumar");
 	}
+	@Test (groups = {"smoke", "regression"})
+	public void  createlead()
+	{
+		System.out.println("create lead done ");
+		System.out.println(" leads is created sucessfully ");	
+		System.out.println("CHANGES DONE BY AMIT");
+		
+	}
+	
+
 }
