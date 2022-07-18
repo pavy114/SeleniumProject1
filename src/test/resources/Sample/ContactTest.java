@@ -42,6 +42,9 @@ public class ContactTest {
 		System.out.println("savegfh");
 		System.out.println("hii");
 		System.out.println("jhgtfrh....mmmm..");
+		System.out.println("Latest build testing");
+		
+		
 		
 	}
 }
