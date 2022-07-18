@@ -10,7 +10,7 @@ public class ContactTest {
 	{
 		System.out.println("Inside Create Contact");
 		System.out.println("smoke test");
-		System.out.println("regional testing1");
+		System.out.println("regional teing1");
 	}
 
 	
