@@ -43,7 +43,7 @@ public class ContactTest {
 		System.out.println("hii");
 		System.out.println("jhgtfrh....mmmm..");
 		System.out.println(" build testing.........");
-		System.out.println("latest build");
+		System.out.println("latest ");
 		
 		
 		
