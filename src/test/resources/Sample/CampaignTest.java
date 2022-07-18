@@ -26,7 +26,7 @@ public class CampaignTest {
 	{
 		System.out.println("create campaign done ");
 		System.out.println("click on the edit one ");
-		System.out.println("edit sucessfully");
+		System.out.println("edit sucessfully...");
 		
 	}
 }
