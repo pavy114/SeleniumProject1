@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 //	public void createCampaign()
 //	{
 //		System.out.println("Inside Create Campaign");
-//		System.out.println("smoke test");
+//		System.out.println("smoke tst");
 //	}
 //
 //	
