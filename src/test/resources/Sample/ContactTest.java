@@ -11,6 +11,11 @@ public class ContactTest {
 		System.out.println("Inside Create Contact");
 		System.out.println("smoke test");
 		System.out.println("regional testing1");
+		String Browser=System.getProperty(BROWSER);
+		System.out.println("Browser is = " +Browser);
+		String Url=System.getProperty(URL);
+		System.out.println("URL is = " +Url);
+		
 	}
 
 	
@@ -33,7 +38,7 @@ public class ContactTest {
 	{
 		System.out.println("give industryhdjd name");
 		System.out.println("Amit enterprises with number 8447995256   ");
-		System.out.println("pavitra with 123456789..");
+		System.out.println("pavitra with 123456..");
 		
 		System.out.println("savegfh");
 		System.out.println("hii");
