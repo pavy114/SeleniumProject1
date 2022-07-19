@@ -9,7 +9,7 @@ public class ContactTest {
 	public void createContact()
 	{
 		System.out.println("Inside Create Contact");
-		System.out.println("smoke test");
+		System.out.println("Jenkins test");
 		System.out.println("regional testing1");
 		String Browser=System.getProperty(BROWSER);
 		System.out.println("Browser is = " +Browser);
